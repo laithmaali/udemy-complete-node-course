@@ -1,0 +1,23 @@
+{
+  "name": "udemy-complete-node-course",
+  "version": "1.0.0",
+  "description": "The Complete Node.js Developer Course (2nd Edition)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://laithmaali:c2fcefd04264e9a51c20248ca2ef9c094ad47ec9@github.com/laithmaali/udemy-complete-node-course.git"
+  },
+  "author": "Laith Maali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laithmaali/udemy-complete-node-course/issues"
+  },
+  "homepage": "https://github.com/laithmaali/udemy-complete-node-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^4.7.1"
+  }
+}
